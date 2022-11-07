@@ -1,0 +1,14 @@
+.navbar-nav a {
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+#navbar-top {
+    background-color: rgb(214, 64, 9);
+}
