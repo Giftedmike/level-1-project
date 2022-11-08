@@ -12,4 +12,7 @@
 #navbar-top {
     background-color: #FD670E;
 }
-
+hr {
+    border: 5px solid #FD670E;
+    border-radius: px;
+}
