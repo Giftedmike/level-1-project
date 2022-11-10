@@ -16,3 +16,8 @@ hr {
     border: 5px solid #FD670E;
     border-radius: px;
 }
+footer a {
+    text-decoration: none;
+    color: beige;
+    font-size: 19px;
+}
