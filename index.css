@@ -23,8 +23,13 @@ footer a {
 }
 #round {
     border-radius: 100%;
-    border: 5px solid black;
+    border: 3px solid #FD670E;
     width: 155px;
     position: relative;
-    top: 55px;
+    bottom: 55px;
+}
+#textcard {
+    position: relative;
+    bottom: 45px;
+    font-size: 19px;
 }
